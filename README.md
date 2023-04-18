@@ -28,8 +28,9 @@ Busco la utilidad de los productos digitales, visualizando todo el proceso, desd
 | Alias               | Función |
 |---------------------|--------------------------------------------------|
 | c="clear"           | Limpia la tarminal                               |
+| ga='git add .'      | Agrega los cambios al stage                      |
 | gcm="git commit -m" | simplifica la escritura de un commit con mensaje |
-
+| gp='git push'       | Sube los cambios al remoto                       |
 
 
 
