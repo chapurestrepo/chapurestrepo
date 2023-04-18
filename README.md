@@ -12,7 +12,7 @@ Busco la utilidad de los productos digitales, visualizando todo el proceso, desd
 - Maquetador (HTLM, CSS)
 
 
-### Comandos de la terminal
+### Comandos de la terminal
 
 | Comando| Función                         |
 |--------|---------------------------------|
